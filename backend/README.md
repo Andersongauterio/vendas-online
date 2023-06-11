@@ -59,3 +59,8 @@ npx typeorm migration:create ./src/migration/create_table_address
 npx typeorm migration:create ./src/migration/alter_table_state
 ```
 
+## Controllers
+```bash
+npx nest g co state 
+```
+
